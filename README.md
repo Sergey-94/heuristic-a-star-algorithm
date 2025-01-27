@@ -46,5 +46,5 @@ RemoveObjects: Удаляет объекты с карты.
 
 Алгоритм A* эффективно находит кратчайший путь на двумерной карте, используя эвристическую функцию для оптимизации поиска. Реализация включает методы для работы с картой, поиска пути и управления объектами на карте.
 </p>
-<p><img alt="" src="https://github.com/Sergey-94/Liang-Barsky/blob/master/image8.png" style="float:left; margin-right:10px" /></p>
+<p><img alt="" src="https://github.com/Sergey-94/heuristic-a-star-algorithm/master/image.png" style="float:left; margin-right:10px" /></p>
 <p>Работа программы</p>
